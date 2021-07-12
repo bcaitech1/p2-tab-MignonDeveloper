@@ -4,7 +4,7 @@ Predict future consumption of customers using online trading customer log data
 
 <br>
 
-### [Click for Detail process in wrap-up report](https://www.notion.so/P-Stage2-Wrap-up-Report-23db0a6b15e247e08df3245262387ec1)
+### [Click for Detail process in wrap-up report](https://www.notion.so/P-Stage2-Wrap-up-Report-836eb52655a04026a5a77986c1c0597e)
 <br>
 
 **Model Structure**
