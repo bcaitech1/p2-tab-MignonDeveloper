@@ -1,10 +1,13 @@
 # Project: Oneline Retail Prediction
-Predict future consumption of customers using online trading customer log data
- - Binary Classification whether the customer purchase amount for December 2011 exceeds 300: `Yes(1)`, `No(0)`
+
+### [Click for Detail process in wrap-up report](https://www.notion.so/P-Stage2-Wrap-up-Report-836eb52655a04026a5a77986c1c0597e)
 
 <br>
 
-### [Click for Detail process in wrap-up report](https://www.notion.so/P-Stage2-Wrap-up-Report-836eb52655a04026a5a77986c1c0597e)
+Predict future consumption of customers using online trading customer log data
+ - Binary Classification whether the customer purchase amount for December 2011 exceeds 300: `Yes(1)`, `No(0)`
+
+
 <br>
 
 **Model Structure**
